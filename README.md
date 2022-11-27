@@ -1,6 +1,7 @@
 # Steps
 - para correr el juego debes correr las siguientes inrucciones en la terminal
-'''sh
+
+
+```sh
 cd game
-py main.py
-'''
+python3 main.py
